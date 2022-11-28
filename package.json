@@ -42,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://blog-backend-node.fly.dev"
+  "proxy": "https://blog-be-node-flyio.fly.dev"
 }

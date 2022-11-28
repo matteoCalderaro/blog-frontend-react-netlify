@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseUrl = 'https://blog-backend-node.fly.dev/api/comments';
+const baseUrl = 'https://blog-be-node-flyio.fly.dev/api/comments';
 
 let token = null;
 
